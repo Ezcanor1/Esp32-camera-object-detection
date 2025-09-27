@@ -76,7 +76,7 @@ Clone this repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Ezcanor1/Esp32-camera-object-detection.git
 cd your-repo-name
 It is recommended to create a virtual environment:
 
