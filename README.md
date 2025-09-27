@@ -1,4 +1,6 @@
-#Real-Time Object Detection with ESP32-CAM and YOLOv8
+#Esp32-camera-object-detection
+
+Real-Time Object Detection with ESP32-CAM and YOLOv8
 This project demonstrates a powerful and cost-effective system for real-time object detection. It uses an ESP32-CAM to capture and stream video to a Python server, which then leverages the high-performance YOLOv8n model to identify objects in the video feed.
 
 (Replace the link above with a GIF of your project in action!)
